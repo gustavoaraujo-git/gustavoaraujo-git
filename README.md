@@ -30,7 +30,5 @@
 </div>
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/gustavoaraujo-git/gustavoaraujo-git/blob/output/github-contribution-grid-snake.svg)
-  
+  <img src="https://github.com/gustavoaraujo-git/gustavoaraujo-git/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 </div>
